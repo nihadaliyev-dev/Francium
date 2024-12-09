@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+* ul {
+  list-style: none;
+}
+
+* a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0px 2%;
+}
+
+@font-face {
+  font-family: "Integral";
+
+  font-weight: 700;
+
+  font-style: normal;
+
+  src: url(../../fonts/integral/Fontspring-DEMO-integralcf-bold.otf);
+}
+
+@font-face {
+  font-family: "Satoshi";
+
+  src: url(../../fonts/satoshi/Fonts/WEB/css/satoshi.css);
+}
+
+html * {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/*# sourceMappingURL=output.css.map */
